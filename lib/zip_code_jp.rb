@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 require 'json'
-require 'zip_code_jp/export'
-require 'zip_code_jp/export2'
-require 'zip_code_jp/refresh_db'
-require 'zip_code_jp/refresh_db2'
 require 'zip_code_jp/address'
 
 module ZipCodeJp

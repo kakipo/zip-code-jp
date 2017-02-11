@@ -28,13 +28,28 @@ describe ZipCodeJp do
       end
     end
 
+    it 'office zip code.' do
+      address = ZipCodeJp.find '113-8654'
+      expect(address.prefecture).to eq('東京都')
+      expect(address.prefecture_kana).to eq('トウキョウト')
+      expect(address.prefecture_code).to eq(13)
+      expect(address.city).to eq('文京区')
+      expect(address.city_kana).to eq('ブンキョウク')
+      expect(address.town).to eq('本郷')
+      expect(address.town_kana).to eq('ホンゴウ')
+      expect(address.street).to eq('７丁目３−１')
+      expect(address.office_name).to eq('東京大学　本部事務組織')
+      expect(address.office_name_kana).to eq('トウキヨウダイガク ホンブジムソシキ')
+    end
+
+
     it 'zip code does not exists.' do
       address = ZipCodeJp.find '000-0000'
       expect(address).to eq(false)
     end
   end
 
-  describe 'ZipCodeJp.export_json' do
+  describe 'ZipCodeJp.export_json', skip: true do
     it 'does NOT raise any errors' do
       expect { ZipCodeJp.export_json }.not_to raise_error
     end
