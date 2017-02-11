@@ -3,7 +3,7 @@
     "zip_code": "1098792",
     "prefecture": "東京都",
     "prefecture_kana": "トウキョウト",
-    "prefecture_code": "13",
+    "prefecture_code": 13,
     "city": "品川区",
     "city_kana": "シナガワク",
     "town": "北品川",
