@@ -1,32 +1,54 @@
 {
-  "0102": {
-    "zip_code": "7490102",
-    "prefecture": "山口県",
-    "prefecture_kana": "ヤマグチケン",
-    "city": "柳井市",
-    "city_kana": "ヤナイシ",
-    "town": "大畠",
-    "town_kana": "オオバタケ",
-    "prefecture_code": 35
-  },
   "0101": {
     "zip_code": "7490101",
     "prefecture": "山口県",
     "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": "35",
     "city": "柳井市",
     "city_kana": "ヤナイシ",
     "town": "神代",
     "town_kana": "コウジロ",
-    "prefecture_code": 35
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0102": {
+    "zip_code": "7490102",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": "35",
+    "city": "柳井市",
+    "city_kana": "ヤナイシ",
+    "town": "大畠",
+    "town_kana": "オオバタケ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0103": {
     "zip_code": "7490103",
     "prefecture": "山口県",
     "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": "35",
     "city": "柳井市",
     "city_kana": "ヤナイシ",
     "town": "遠崎",
     "town_kana": "トオザキ",
-    "prefecture_code": 35
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0195": {
+    "zip_code": "7490195",
+    "prefecture": "山口県",
+    "prefecture_kana": "ヤマグチケン",
+    "prefecture_code": "35",
+    "city": "柳井市",
+    "city_kana": "ヤナイシ",
+    "town": "大畠",
+    "town_kana": "オオバタケ",
+    "street": "１０２１",
+    "office_name": "柳井市役所　大畠総合支所",
+    "office_name_kana": "ヤナイシヤクシヨ オオバタケソウゴウシシヨ"
   }
 }

@@ -3,330 +3,481 @@
     "zip_code": "5470000",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "",
     "town_kana": "",
-    "prefecture_code": 27
-  },
-  "0024": {
-    "zip_code": "5470024",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "瓜破",
-    "town_kana": "ウリワリ",
-    "prefecture_code": 27
-  },
-  "0022": {
-    "zip_code": "5470022",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "瓜破東",
-    "town_kana": "ウリワリヒガシ",
-    "prefecture_code": 27
-  },
-  "0025": {
-    "zip_code": "5470025",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "瓜破西",
-    "town_kana": "ウリワリニシ",
-    "prefecture_code": 27
-  },
-  "0023": {
-    "zip_code": "5470023",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "瓜破南",
-    "town_kana": "ウリワリミナミ",
-    "prefecture_code": 27
-  },
-  "0004": {
-    "zip_code": "5470004",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "加美鞍作",
-    "town_kana": "カミクラツクリ",
-    "prefecture_code": 27
-  },
-  "0006": {
-    "zip_code": "5470006",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "加美正覚寺",
-    "town_kana": "カミショウガクジ",
-    "prefecture_code": 27
-  },
-  "0002": {
-    "zip_code": "5470002",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "加美東",
-    "town_kana": "カミヒガシ",
-    "prefecture_code": 27
-  },
-  "0005": {
-    "zip_code": "5470005",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "加美西",
-    "town_kana": "カミニシ",
-    "prefecture_code": 27
-  },
-  "0003": {
-    "zip_code": "5470003",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "加美南",
-    "town_kana": "カミミナミ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0001": {
     "zip_code": "5470001",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "加美北",
     "town_kana": "カミキタ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0027": {
-    "zip_code": "5470027",
+  "0002": {
+    "zip_code": "5470002",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "喜連",
-    "town_kana": "キレ",
-    "prefecture_code": 27
+    "town": "加美東",
+    "town_kana": "カミヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0021": {
-    "zip_code": "5470021",
+  "0003": {
+    "zip_code": "5470003",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "喜連東",
-    "town_kana": "キレヒガシ",
-    "prefecture_code": 27
+    "town": "加美南",
+    "town_kana": "カミミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0026": {
-    "zip_code": "5470026",
+  "0004": {
+    "zip_code": "5470004",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "喜連西",
-    "town_kana": "キレニシ",
-    "prefecture_code": 27
+    "town": "加美鞍作",
+    "town_kana": "カミクラツクリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0034": {
-    "zip_code": "5470034",
+  "0005": {
+    "zip_code": "5470005",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "背戸口",
-    "town_kana": "セトグチ",
-    "prefecture_code": 27
+    "town": "加美西",
+    "town_kana": "カミニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0014": {
-    "zip_code": "5470014",
+  "0006": {
+    "zip_code": "5470006",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "長吉川辺",
-    "town_kana": "ナガヨシカワナベ",
-    "prefecture_code": 27
+    "town": "加美正覚寺",
+    "town_kana": "カミショウガクジ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0011": {
     "zip_code": "5470011",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "長吉出戸",
     "town_kana": "ナガヨシデト",
-    "prefecture_code": 27
-  },
-  "0016": {
-    "zip_code": "5470016",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "長吉長原",
-    "town_kana": "ナガヨシナガハラ",
-    "prefecture_code": 27
-  },
-  "0013": {
-    "zip_code": "5470013",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "長吉長原東",
-    "town_kana": "ナガヨシナガハラヒガシ",
-    "prefecture_code": 27
-  },
-  "0015": {
-    "zip_code": "5470015",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "大阪市平野区",
-    "city_kana": "オオサカシヒラノク",
-    "town": "長吉長原西",
-    "town_kana": "ナガヨシナガハラニシ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0012": {
     "zip_code": "5470012",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "長吉六反",
     "town_kana": "ナガヨシロクタン",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0032": {
-    "zip_code": "5470032",
+  "0013": {
+    "zip_code": "5470013",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "流町",
-    "town_kana": "ナガレマチ",
-    "prefecture_code": 27
+    "town": "長吉長原東",
+    "town_kana": "ナガヨシナガハラヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0035": {
-    "zip_code": "5470035",
+  "0014": {
+    "zip_code": "5470014",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "西脇",
-    "town_kana": "ニシワキ",
-    "prefecture_code": 27
+    "town": "長吉川辺",
+    "town_kana": "ナガヨシカワナベ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0042": {
-    "zip_code": "5470042",
+  "0015": {
+    "zip_code": "5470015",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野市町",
-    "town_kana": "ヒラノイチマチ",
-    "prefecture_code": 27
+    "town": "長吉長原西",
+    "town_kana": "ナガヨシナガハラニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0045": {
-    "zip_code": "5470045",
+  "0016": {
+    "zip_code": "5470016",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野上町",
-    "town_kana": "ヒラノウエマチ",
-    "prefecture_code": 27
+    "town": "長吉長原",
+    "town_kana": "ナガヨシナガハラ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0048": {
-    "zip_code": "5470048",
+  "0021": {
+    "zip_code": "5470021",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野馬場",
-    "town_kana": "ヒラノババ",
-    "prefecture_code": 27
+    "town": "喜連東",
+    "town_kana": "キレヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0044": {
-    "zip_code": "5470044",
+  "0022": {
+    "zip_code": "5470022",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野本町",
-    "town_kana": "ヒラノホンマチ",
-    "prefecture_code": 27
+    "town": "瓜破東",
+    "town_kana": "ウリワリヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0046": {
-    "zip_code": "5470046",
+  "0023": {
+    "zip_code": "5470023",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野宮町",
-    "town_kana": "ヒラノミヤマチ",
-    "prefecture_code": 27
+    "town": "瓜破南",
+    "town_kana": "ウリワリミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0047": {
-    "zip_code": "5470047",
+  "0024": {
+    "zip_code": "5470024",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野元町",
-    "town_kana": "ヒラノモトマチ",
-    "prefecture_code": 27
+    "town": "瓜破",
+    "town_kana": "ウリワリ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0043": {
-    "zip_code": "5470043",
+  "0025": {
+    "zip_code": "5470025",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野東",
-    "town_kana": "ヒラノヒガシ",
-    "prefecture_code": 27
+    "town": "瓜破西",
+    "town_kana": "ウリワリニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
-  "0033": {
-    "zip_code": "5470033",
+  "0026": {
+    "zip_code": "5470026",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
-    "town": "平野西",
-    "town_kana": "ヒラノニシ",
-    "prefecture_code": 27
+    "town": "喜連西",
+    "town_kana": "キレニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0027": {
+    "zip_code": "5470027",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "喜連",
+    "town_kana": "キレ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0031": {
     "zip_code": "5470031",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "平野南",
     "town_kana": "ヒラノミナミ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0032": {
+    "zip_code": "5470032",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "流町",
+    "town_kana": "ナガレマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0033": {
+    "zip_code": "5470033",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野西",
+    "town_kana": "ヒラノニシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0034": {
+    "zip_code": "5470034",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "背戸口",
+    "town_kana": "セトグチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0035": {
+    "zip_code": "5470035",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "西脇",
+    "town_kana": "ニシワキ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0041": {
     "zip_code": "5470041",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "大阪市平野区",
     "city_kana": "オオサカシヒラノク",
     "town": "平野北",
     "town_kana": "ヒラノキタ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0042": {
+    "zip_code": "5470042",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野市町",
+    "town_kana": "ヒラノイチマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0043": {
+    "zip_code": "5470043",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野東",
+    "town_kana": "ヒラノヒガシ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0044": {
+    "zip_code": "5470044",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野本町",
+    "town_kana": "ヒラノホンマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0045": {
+    "zip_code": "5470045",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野上町",
+    "town_kana": "ヒラノウエマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0046": {
+    "zip_code": "5470046",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野宮町",
+    "town_kana": "ヒラノミヤマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0047": {
+    "zip_code": "5470047",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野元町",
+    "town_kana": "ヒラノモトマチ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0048": {
+    "zip_code": "5470048",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野馬場",
+    "town_kana": "ヒラノババ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8501": {
+    "zip_code": "5478501",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "平野西",
+    "town_kana": "ヒラノニシ",
+    "street": "２丁目２−２",
+    "office_name": "東住吉税務署",
+    "office_name_kana": "ヒガシスミヨシゼイムシヨ"
+  },
+  "8510": {
+    "zip_code": "5478510",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "加美南",
+    "town_kana": "カミミナミ",
+    "street": "３丁目７番１９号",
+    "office_name": "シャープエンジニアリング　株式会社",
+    "office_name_kana": "シヤ-プエンジニアリング カブシキガイシヤ"
+  },
+  "8514": {
+    "zip_code": "5478514",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "長吉川辺",
+    "town_kana": "ナガヨシカワナベ",
+    "street": "３丁目１５−７",
+    "office_name": "株式会社　コアデ",
+    "office_name_kana": "カブシキガイシヤ コアデ"
+  },
+  "8580": {
+    "zip_code": "5478580",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "大阪市平野区",
+    "city_kana": "オオサカシヒラノク",
+    "town": "背戸口",
+    "town_kana": "セトグチ",
+    "street": "３丁目８−１９",
+    "office_name": "平野区役所",
+    "office_name_kana": "ヒラノクヤクシヨ"
   }
 }

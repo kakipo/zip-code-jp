@@ -3,30 +3,78 @@
     "zip_code": "5490001",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "泉佐野市",
     "city_kana": "イズミサノシ",
     "town": "泉州空港北",
     "town_kana": "センシュウクウコウキタ",
-    "prefecture_code": 27
-  },
-  "0021": {
-    "zip_code": "5490021",
-    "prefecture": "大阪府",
-    "prefecture_kana": "オオサカフ",
-    "city": "泉南市",
-    "city_kana": "センナンシ",
-    "town": "泉州空港南",
-    "town_kana": "センシュウクウコウミナミ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
   },
   "0011": {
     "zip_code": "5490011",
     "prefecture": "大阪府",
     "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
     "city": "泉南郡田尻町",
     "city_kana": "センナングンタジリチョウ",
     "town": "泉州空港中",
     "town_kana": "センシュウクウコウナカ",
-    "prefecture_code": 27
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "0021": {
+    "zip_code": "5490021",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "泉南市",
+    "city_kana": "センナンシ",
+    "town": "泉州空港南",
+    "town_kana": "センシュウクウコウミナミ",
+    "street": null,
+    "office_name": null,
+    "office_name_kana": null
+  },
+  "8511": {
+    "zip_code": "5498511",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "泉南郡田尻町",
+    "city_kana": "センナングンタジリチョウ",
+    "town": "泉州空港中",
+    "town_kana": "センシュウクウコウナカ",
+    "street": "１番地",
+    "office_name": "中カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー",
+    "office_name_kana": "ナカカウンタ- カンサイクウコウタ-ミナル 4エフコクサイセンシユツパツロビ-・1エフコクサイセントウチヤクロビ-"
+  },
+  "8522": {
+    "zip_code": "5498522",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "泉佐野市",
+    "city_kana": "イズミサノシ",
+    "town": "泉州空港北",
+    "town_kana": "センシュウクウコウキタ",
+    "street": "１番地",
+    "office_name": "北カウンター　関西空港ターミナル　４Ｆ国際線出発ロビー・１Ｆ国際線到着ロビー",
+    "office_name_kana": "キタカウンタ- カンサイクウコウタ-ミナル 4エフコクサイセンシユツパツロビ-・1エフコクサイセントウチヤクロビ-"
+  },
+  "8585": {
+    "zip_code": "5498585",
+    "prefecture": "大阪府",
+    "prefecture_kana": "オオサカフ",
+    "prefecture_code": "27",
+    "city": "泉南郡田尻町",
+    "city_kana": "センナングンタジリチョウ",
+    "town": "泉州空港中",
+    "town_kana": "センシュウクウコウナカ",
+    "street": "１番地エアロプラザ３Ｆ",
+    "office_name": "Ｐｅａｃｈ・Ａｖｉａｔｉｏｎ　株式会社",
+    "office_name_kana": "ピ-チ・アビエ-シヨン カブシキガイシヤ"
   }
 }

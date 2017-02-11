@@ -16,6 +16,7 @@ module ZipCodeJp
         office_name,
         office_name_kana
       FROM addresses
+      ORDER BY zip_code
     SQL
 
     def execute
