@@ -65,7 +65,7 @@ module ZipCodeJp
       zip_codes().each do |prefix, value|
         file_path = "#{ZipCodeJp::DATA_DIR}/zip_code/#{prefix}.json"
         File.open(file_path, 'wb') do |file|
-          file.write JSON.generate(value)
+          file.write JSON.pretty_generate(value)
         end
       end
     end
